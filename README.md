@@ -1,7 +1,9 @@
 near-blank-project
 ==================
 
-This app was initialized with [create-near-app]
+This app was initialized with [create-near-app]:
+
+    npx create-near-app
 
 
 Quick Start
